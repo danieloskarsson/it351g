@@ -5,16 +5,26 @@
   * [Classes](course-introduction/classes.md)
   * [Examinations](course-introduction/examinations.md)
   * [Tests](course-introduction/tests.md)
-  * [LenaSys](https://dugga.iit.his.se/DuggaSys/showdoc.php?exampleid=general_lenasys_info.md&courseid=1&coursevers=924752&fname=general_lenasys_info.md)
-  * [Respittid](https://dugga.iit.his.se/DuggaSys/showdoc.php?exampleid=buffer_time.md&courseid=1&coursevers=924752&fname=buffer_time.md)
-* [Git](git/README.md)
-  * [Github](git/github.md)
-* [Android Studio](android-studio/README.md)
-  * [Intellij](android-studio/jetbrains-intellij.md)
-  * [Gradle](android-studio/gradle.md)
-* [Android SDK](android-sdk.md)
-* [WebView](webview.md)
-* [Test: Git & Github](test-git-and-github.md)
+* [Course plan](https://pdf.his.se/kursutbplan/kursplan.aspx?ktanmkod=92475&kttermin=20201)
+* [Lenasys](https://dugga.iit.his.se/DuggaSys/showdoc.php?exampleid=general_lenasys_info.md&courseid=1&coursevers=924752&fname=general_lenasys_info.md)
+* [Respittid](https://dugga.iit.his.se/DuggaSys/showdoc.php?exampleid=buffer_time.md&courseid=1&coursevers=924752&fname=buffer_time.md)
+
+## Tools & Services
+
+* [Git](tools-and-services/git.md)
+* [Github](tools-and-services/github.md)
+* [Android Studio](tools-and-services/android-studio/README.md)
+  * [Intellij](tools-and-services/android-studio/jetbrains-intellij.md)
+  * [Gradle](tools-and-services/android-studio/gradle.md)
+  * [Maven](tools-and-services/android-studio/maven.md)
+  * [Android SDK](tools-and-services/android-studio/android-sdk.md)
+* [Test: Android Studio & Github](tools-and-services/test-android-studio-and-github/README.md)
+  * [Android SDK](tools-and-services/test-android-studio-and-github/android-sdk.md)
+
+## WebView <a id="webview-1"></a>
+
+* [WebView](webview-1/webview.md)
+* [Test: WebView](webview-1/test-webview.md)
 
 ## User Interface: Widgets <a id="user-interface"></a>
 
