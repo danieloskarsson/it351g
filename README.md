@@ -2,9 +2,9 @@
 description: Page description (optional)
 ---
 
-# IT351G - Web Development - Programming of Mobile Applications G1F, 7.5 credits
+# Index
 
-{% page-ref page="test.md" %}
+{% page-ref page="git/github.md" %}
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -30,7 +30,7 @@ paragraph
 [dfgdsafsdf](http://example.org)
 {% endhint %}
 
-{% page-ref page="test2.md" %}
+{% page-ref page="android-studio/" %}
 
 [is this a regular link?](http://example.org)
 
