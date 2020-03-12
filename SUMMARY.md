@@ -6,11 +6,11 @@
 * [TEST2](test2.md)
 * [example](https://example.org)
 
-## group
+## group1
 
-* [Untitled](group/untitled-2.md)
-* [Untitled](group/untitled-1.md)
-* [Untitled](group/untitled.md)
+* [Untitled](group1/untitled-2.md)
+* [Untitled](group1/untitled-1.md)
+* [Untitled](group1/untitled.md)
 
 ## group0
 
