@@ -32,7 +32,7 @@ paragraph
 
 {% page-ref page="test2.md" %}
 
-can this be changed to a regular link?
+[is this a regular link?](http://example.org)
 
 ## Header
 
