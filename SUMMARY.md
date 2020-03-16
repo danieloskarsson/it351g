@@ -1,10 +1,6 @@
 # Table of contents
 
-* [Index](README.md)
-* [Course introduction](course-introduction/README.md)
-  * [Classes](course-introduction/classes.md)
-  * [Examinations](course-introduction/examinations.md)
-  * [Tests](course-introduction/tests.md)
+* [Course introduction](README.md)
 * [Course plan](https://pdf.his.se/kursutbplan/kursplan.aspx?ktanmkod=92475&kttermin=20201)
 * [Lenasys](https://dugga.iit.his.se/DuggaSys/showdoc.php?exampleid=general_lenasys_info.md&courseid=1&coursevers=924752&fname=general_lenasys_info.md)
 * [Respittid](https://dugga.iit.his.se/DuggaSys/showdoc.php?exampleid=buffer_time.md&courseid=1&coursevers=924752&fname=buffer_time.md)
