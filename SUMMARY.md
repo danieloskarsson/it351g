@@ -16,11 +16,11 @@
   * [Android SDK](tools-and-services/android-studio/android-sdk.md)
 * [Test: Android Studio & Github](tools-and-services/test-android-studio-and-github.md)
 
-## WebView <a id="webview-1"></a>
+## WebView
 
-* [WebView](webview-1/webview/README.md)
-  * [WebView bindings](webview-1/webview/webview-bindinngs.md)
-* [Test: WebView](webview-1/test-webview.md)
+* [WebView](webview/webview/README.md)
+  * [WebView bindings](webview/webview/webview-bindings.md)
+* [Test: WebView](webview/test-webview.md)
 
 ## User Interface: Widgets <a id="user-interface"></a>
 
