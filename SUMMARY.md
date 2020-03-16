@@ -18,12 +18,12 @@
   * [Gradle](tools-and-services/android-studio/gradle.md)
   * [Maven](tools-and-services/android-studio/maven.md)
   * [Android SDK](tools-and-services/android-studio/android-sdk.md)
-* [Test: Android Studio & Github](tools-and-services/test-android-studio-and-github/README.md)
-  * [Android SDK](tools-and-services/test-android-studio-and-github/android-sdk.md)
+* [Test: Android Studio & Github](tools-and-services/test-android-studio-and-github.md)
 
 ## WebView <a id="webview-1"></a>
 
-* [WebView](webview-1/webview.md)
+* [WebView](webview-1/webview/README.md)
+  * [WebView bindings](webview-1/webview/webview-bindinngs.md)
 * [Test: WebView](webview-1/test-webview.md)
 
 ## User Interface: Widgets <a id="user-interface"></a>
@@ -31,7 +31,6 @@
 * [Views](user-interface/views.md)
 * [Layouts](user-interface/layouts.md)
 * [RecyclerView](user-interface/recyclerview.md)
-* [WebView bindings](user-interface/webview-bindinngs.md)
 * [Test: Views & Layouts](user-interface/test-views-and-layouts.md)
 
 ## User Interface: Screens
