@@ -16,3 +16,7 @@ There are four examination parts to this course. The first two are tests \(sv. d
 
 There are eights "duggor" of which six \(6\) are mandatory for G and the last two \(2\) are mandatory for being eligible for VG. Tests are due on Fridays at 5 pm. There is one test due each week for the next eight weeks, starting this week. The tests directly corresponds what we will go through in class, so those that take advantage of the lectures and supervised classes are well positioned to pass the tests.
 
+### Teachers
+
+We that work with the course are: Marcus Brohede \(brom\), Daniel Oskarsson \(oskd\), Johan Bjuren \(bjuj\), and Tobias Löf Melker \(lofu\). Henrik Gustavsson \(gush\) is examiner.
+
