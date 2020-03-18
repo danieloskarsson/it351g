@@ -18,7 +18,7 @@
   * [Gradle](tools-and-services/android-studio/gradle.md)
   * [Maven](tools-and-services/android-studio/maven.md)
   * [Android SDK](tools-and-services/android-studio/android-sdk.md)
-* [Dugga: Tools & Service](tools-and-services/test-android-studio-and-github.md)
+* [Dugga: Tools & Services](tools-and-services/test-android-studio-and-github.md)
 
 ## WebView
 
